@@ -15,16 +15,14 @@ M.S. student @ UCAS · Working on AI Agent & LLM Systems
 
 ---
 
-### 📊 Activity
+### 🔥 Contribution Streak
 
-![Streak](https://streak-stats.demolab.com/?user=yuranqiu&theme=dark&hide_border=true)
-
-![Profile Views](https://komarev.com/ghprofile/counter.svg?username=yuranqiu&label=Profile%20Views&style=flat-square&color=6FA8DC)
+![Streak](https://streak-stats.demolab.com/?user=yuranqiu&theme=dark&hide_border=true&fire_color=FF6B6B&stroke_color=FF6B6B)
 
 ---
 
 ### 📫 Contact
 
-📧 yueruiqing.edu@gmail.com
-💻 [github.com/yuranqiu](https://github.com/yuranqiu)
+📧 yueruiqing.edu@gmail.com  
+💻 [github.com/yuranqiu](https://github.com/yuranqiu)  
 🔗 [linkedin.com/in/ruiqing-yue](https://www.linkedin.com/in/ruiqing-yue-90628a40a)
