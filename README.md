@@ -15,13 +15,11 @@ M.S. student @ UCAS · Working on AI Agent & LLM Systems
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuranqiu&show_icons=true&theme=dark&hide_title=true&rank_color=6FA8DC)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuranqiu&layout=compact&hide=html,css&hide_title=true&langs_count=6)
+### 📊 Activity
 
 ![Streak](https://streak-stats.demolab.com/?user=yuranqiu&theme=dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghprofile/counter.svg?username=yuranqiu&label=Profile%20Views&style=flat-square&color=6FA8DC)
 
 ---
 
