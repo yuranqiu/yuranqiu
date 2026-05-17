@@ -15,6 +15,12 @@ M.S. student @ UCAS · Working on AI Agent & LLM Systems
 
 ---
 
+### 🏆 Achievements
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=yuranqiu&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)
+
+---
+
 ### 🔥 Contribution Streak
 
 ![Streak](https://streak-stats.demolab.com/?user=yuranqiu&theme=dark&hide_border=true&fire_color=FF6B6B&stroke_color=FF6B6B)
@@ -23,6 +29,6 @@ M.S. student @ UCAS · Working on AI Agent & LLM Systems
 
 ### 📫 Contact
 
-📧 yueruiqing.edu@gmail.com  
-💻 [github.com/yuranqiu](https://github.com/yuranqiu)  
+📧 yueruiqing.edu@gmail.com
+💻 [github.com/yuranqiu](https://github.com/yuranqiu)
 🔗 [linkedin.com/in/ruiqing-yue](https://www.linkedin.com/in/ruiqing-yue-90628a40a)
