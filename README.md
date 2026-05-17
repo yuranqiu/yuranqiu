@@ -15,6 +15,12 @@ M.S. student @ UCAS · Working on AI Agent & LLM Systems
 
 ---
 
+### 📊 Contribution Graph
+
+![Contribution Heatmap](https://github-contribution-stats.vercel.app/api?username=yuranqiu&theme=dark)
+
+---
+
 ### 🏆 Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=yuranqiu&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)
