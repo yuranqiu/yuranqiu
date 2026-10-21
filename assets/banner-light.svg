@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Ruiqing Yue — M.S. at UCAS, AI Agent and LLM Systems">
+  <title>Ruiqing Yue — M.S. at UCAS, AI Agent &amp; LLM Systems</title>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"   stop-color="#f7f9fc"/>
+      <stop offset="55%"  stop-color="#eef2f9"/>
+      <stop offset="100%" stop-color="#f3eefc"/>
+    </linearGradient>
+
+    <radialGradient id="glowA" cx="0.15" cy="0.18" r="0.62">
+      <stop offset="0%"   stop-color="#4f8cff" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#4f8cff" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="glowB" cx="0.88" cy="0.86" r="0.55">
+      <stop offset="0%"   stop-color="#a855f7" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#2563eb"/>
+      <stop offset="50%"  stop-color="#0891b2"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0f172a" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glowA)"/>
+  <rect width="1200" height="300" fill="url(#glowB)"/>
+
+  <!-- orbit rings -->
+  <g fill="none" stroke="#0f172a" stroke-width="1">
+    <circle cx="1006" cy="150" r="116" stroke-opacity="0.07"/>
+    <circle cx="1006" cy="150" r="84"  stroke-opacity="0.09"/>
+    <circle cx="1006" cy="150" r="52"  stroke-opacity="0.11"/>
+  </g>
+
+  <!-- orbiting nodes -->
+  <g>
+    <circle cx="1006" cy="34" r="4.5" fill="#0891b2">
+      <animate attributeName="opacity" values="1;0.35;1" dur="3.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1122" cy="150" r="3.5" fill="#2563eb">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="4.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="922" cy="92" r="3.5" fill="#7c3aed">
+      <animate attributeName="opacity" values="1;0.4;1" dur="5.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="212" r="3" fill="#4f46e5">
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="4.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- name -->
+  <text x="72" y="126"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="60" font-weight="700" fill="url(#nameFill)" letter-spacing="0.4">Ruiqing Yue</text>
+
+  <text x="74" y="170"
+        font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif"
+        font-size="25" font-weight="500" fill="#64748b" letter-spacing="8">岳睿清</text>
+
+  <!-- tagline -->
+  <text x="74" y="216"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="20" font-weight="400" fill="#475569">M.S. @ UCAS  ·  AI Agent &amp; LLM Systems</text>
+
+  <!-- accent rule with travelling highlight -->
+  <rect x="74" y="236" width="230" height="3" rx="1.5" fill="url(#rule)" opacity="0.85"/>
+  <rect x="74" y="236" width="54" height="3" rx="1.5" fill="#0f172a" opacity="0.28">
+    <animate attributeName="x" values="74;250;74" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.3;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- keywords -->
+  <text x="74" y="274"
+        font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
+        font-size="14.5" fill="#64748b">Multi-Agent Systems   ·   LLM Engineering   ·   Inference Acceleration</text>
+</svg>
