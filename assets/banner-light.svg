@@ -67,24 +67,21 @@
         font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="60" font-weight="700" fill="url(#nameFill)" letter-spacing="0.4">Ruiqing Yue</text>
 
-  <text x="74" y="170"
-        font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif"
-        font-size="25" font-weight="500" fill="#64748b" letter-spacing="8">岳睿清</text>
 
   <!-- tagline -->
-  <text x="74" y="216"
+  <text x="74" y="186"
         font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="20" font-weight="400" fill="#475569">M.S. @ UCAS  ·  AI Agent &amp; LLM Systems</text>
 
   <!-- accent rule with travelling highlight -->
-  <rect x="74" y="236" width="230" height="3" rx="1.5" fill="url(#rule)" opacity="0.85"/>
-  <rect x="74" y="236" width="54" height="3" rx="1.5" fill="#0f172a" opacity="0.28">
+  <rect x="74" y="208" width="230" height="3" rx="1.5" fill="url(#rule)" opacity="0.85"/>
+  <rect x="74" y="208" width="54" height="3" rx="1.5" fill="#0f172a" opacity="0.28">
     <animate attributeName="x" values="74;250;74" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.3;0" dur="6s" repeatCount="indefinite"/>
   </rect>
 
   <!-- keywords -->
-  <text x="74" y="274"
+  <text x="74" y="248"
         font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif"
         font-size="14.5" fill="#64748b">Multi-Agent Systems   ·   LLM Engineering   ·   Inference Acceleration</text>
 </svg>
